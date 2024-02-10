@@ -99,4 +99,4 @@ For more information, see the [LICENSE](LICENSE) file.
 
 ---
 
-Feel free to reach out to Muluken Kebede at muluken.kebede@example.com for any questions or further information. Happy task managing!
+Feel free to reach out to Muluken Kebede at mule.andisew@gmail.com for any questions or further information. Happy task managing!
